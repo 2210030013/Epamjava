@@ -1,2 +1,0 @@
-# Epamjava
-epamjava
